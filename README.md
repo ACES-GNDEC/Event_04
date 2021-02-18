@@ -1,4 +1,4 @@
-# Event Art-tee-act
+# Art-tee-act
 
 <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/1%20(4).jpg" width="480" height="270">  <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/1%20(5).jpg" width="480" height="270">
 
